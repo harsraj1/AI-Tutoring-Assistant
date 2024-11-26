@@ -79,7 +79,7 @@ greet = f"{greetings[greeting_type]} {name}!"
 #=======================================================================================
 
 # Set your OpenAI API key
-openai.api_key = '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'
+openai.api_key = 'API KEY'
     
 def generate_interpretation():
     prompt = entry_text.get()
